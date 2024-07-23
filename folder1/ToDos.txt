@@ -1,0 +1,2 @@
+- learn Next js
+- create a capstone project
